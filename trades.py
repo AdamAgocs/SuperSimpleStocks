@@ -8,7 +8,6 @@ Created on 10 May 2018
 from abc import ABCMeta
 from collections import Iterable
 from pandas import DataFrame, Timestamp, Timedelta
-from numpy import array
 from math import log, exp
 from stocks import StockManager
 
